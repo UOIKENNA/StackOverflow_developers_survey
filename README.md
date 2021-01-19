@@ -21,7 +21,7 @@ I looked at the Stack Overflow Developers Survey 2017 data set and I decided to 
 There is one jupyter notebook available here to showcase the work related to the above questions. Markdown cells were used to assist in explaining the individual steps.
 
 # Results
-The results of this analysis are available on a medium post [here].
+The results of this analysis are available on a medium post [here](https://uikenna97.medium.com/a-survey-on-developers-in-nigeria-f7f1380f61ff)
 
 # Licensing, Authors and Acknowledgements
 
