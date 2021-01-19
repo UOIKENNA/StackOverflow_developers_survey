@@ -14,7 +14,7 @@ The code should run without issues using Python 3.*. All the necessary libraries
 
 # Project Motivation
 
-I looked at the Stack Overflow Developers Survey 2017 data set and I decided to find out more information about developers living in Nigeria. The questions I sought answers to were related to their choice of education, level of education, job satisfaction and career satisfaction.
+I looked at the [Stack Overflow Developers Survey 2017](https://www.kaggle.com/stackoverflow/so-survey-2017) data set and I decided to find out more information about developers living in Nigeria. The questions I sought answers to were related to their choice of education, level of education, job satisfaction and career satisfaction.
 
 # File Descriptions
 
