@@ -25,4 +25,4 @@ The results of this analysis are available on a medium post [here](https://uiken
 
 # Licensing, Authors and Acknowledgements
 
-Credit to Stack Overflow for the data I used. The code in this repository can be viewed and inputs will be welcome!.
+Credit to Stack Overflow for the data I used. I also credit https://github.com/iris-theof/developers_survey for providing me with guidance to perform this project. The code in this repository can be viewed and inputs will be welcome!.
